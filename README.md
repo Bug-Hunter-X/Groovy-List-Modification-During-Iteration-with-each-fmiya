@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Groovy when modifying a list while iterating using the each method. The code shows how removing an element during iteration can lead to unexpected behavior. The solution provides a safer way to remove elements using an iterator or by creating a new list.
